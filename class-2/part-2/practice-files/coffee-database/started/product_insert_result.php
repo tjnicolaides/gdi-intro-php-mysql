@@ -12,9 +12,9 @@
 		description='$description'";
 
 	if (!mysqli_query($link, $sql)){
-			$error = 'Error adding submitted data: ' . mysqli_error($link);
-			echo $error;
-			exit();
-		}
-		header('Location:product_show.php');
+		$error = 'Error adding submitted data: ' . mysqli_error($link);
+		echo $error;
+		exit();
+    }
+    header('Location:product_show.php');
 ?>

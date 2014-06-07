@@ -10,5 +10,6 @@
 		echo $error; 	
 		exit();
 	}
+	
 	header('location:product_show.php'); 
 ?>
