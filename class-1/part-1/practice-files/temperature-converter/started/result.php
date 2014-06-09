@@ -15,8 +15,17 @@
             <div class="content">
             
             
-             <!--Input data from slides 22-25-->
+            
+             <!--Get the Fahrenheit 'degrees' value -->
+
+             <!--Print it out with 'echo' -->
+
+             <!--Manipulate it with MATH and assign it to variable -->
              
+             <!--Round it off -->
+
+             <!--Echo out the final Celsius value -->
+    
     
             </div>
             <div class="footer">
